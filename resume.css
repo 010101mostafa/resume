@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th {
+    text-align: start;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    font-size: 10px;
+    color: #000;
+    margin: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h3, h5, h3, h6 {
+    color: #2980b9;
+}
+
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
