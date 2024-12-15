@@ -17,7 +17,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### MEAN Stack Developer at **Contellect**  
 *September 2022 - Present*
@@ -171,7 +171,7 @@ Git, GitHub, SVN
 #### **Other Skills**  
 Cloud-Native Apps, DevOps, Linux, Photoshop, Illustrator
 
-
+<a href="https://010101mostafa.github.io/resume"></a>
 
 <style>
     table {
