@@ -170,9 +170,6 @@ Git, GitHub, SVN
 
 #### **Other Skills**  
 Cloud-Native Apps, DevOps, Linux, Photoshop, Illustrator
-
-<a href="https://010101mostafa.github.io/resume"></a>
-
 <style>
     table {
         width: 100%;
