@@ -2,10 +2,22 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
+dd {
+    display: inline-block;
+}
+dt {
+    font-weight: bold;
+}
+
 th {
     text-align: start;
 }
-
+.mb-0{
+    margin-bottom: 0;
+}
+.mt-0{
+    margin-top: 0;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #fff;
@@ -14,7 +26,7 @@ body {
     margin: 20px;
 }
 
-h1 ,h3, h5, h3, h6 {
+h1 ,h3, h5, h3,h4, h6 {
     color: #003366;
 }
 
@@ -25,7 +37,4 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-body{
-
 }
